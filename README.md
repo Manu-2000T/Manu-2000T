@@ -31,6 +31,10 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node jS](https://img.shields.io/badge/Node.js-3399?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-333333?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+
 
 <h1 align="left">Follow me around web :point_down:</h1>
    <p align="left">
